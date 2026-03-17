@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-03-14T08:11:48.029327",
+  "num_balls": 3,
+  "total_frames": 1917,
+  "frames_with_detections": 1710,
+  "detection_coverage": 89.2018779342723,
+  "total_detections": 2508,
+  "avg_detections_per_frame": 1.3082942097026604,
+  "unique_tracks": 152,
+  "avg_detection_rate": 0.4360980699008868
+}
