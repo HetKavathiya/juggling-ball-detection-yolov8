@@ -31,4 +31,7 @@ This project focuses on detecting juggling balls in real-time using YOLOv8. The 
 - Single class: `ball`
 
 ```bash
+python train_optimized.py
+
+```bash
 python run_analysis.py
